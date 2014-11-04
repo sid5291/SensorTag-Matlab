@@ -1,16 +1,16 @@
 # TI SensorTag interface with Matlab
 
-  ## Run
+## Run
 
   ```
   >> HCI_Apis
   ```
   
-  ## Special Points
+## Special Points
   - Change COM in HCI_TXRX
   - Modify Hardcoded MAC address for Connect
 
-  ## To-Do
+## To-Do
   - Allow User input for MAC Address
 
 * [TI Sensor Tag wiki: GATT Server](http://processors.wiki.ti.com/index.php/SensorTag_User_Guide#Gatt_Server)
